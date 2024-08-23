@@ -6,7 +6,6 @@ function App() {
   return (
     <>
       <Navbar />
-      <h1 className='text-7xl'>Hello Blog</h1>
       <Outlet />
     </>
   )

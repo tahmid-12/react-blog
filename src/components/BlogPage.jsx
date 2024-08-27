@@ -38,7 +38,7 @@ const BlogPage = () => {
 
   return (
     <div>
-      <div>
+      {/* <div>
         <button onClick={() => handlePageChange(1)} disabled={currentPage === 1}>First Page</button>
         <button 
           onClick={() => handlePageChange(currentPage - 1)} 
@@ -58,7 +58,7 @@ const BlogPage = () => {
         >
           Last Page
         </button>
-      </div>
+      </div> */}
 
       {/* Blog Cards Section */}
       <div>
